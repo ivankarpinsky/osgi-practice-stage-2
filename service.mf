@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: service
+Export-Package: service;version="1.1.1"
+Bundle-Name: Greeting Service
+Bundle-Version: 1.1
+Bundle-ManifestVersion: 2
+Bundle-Activator: service.GreetingActivator
+Import-Package: org.osgi.framework
+Created-By: 1.8.0_232 (Oracle Corporation)
+

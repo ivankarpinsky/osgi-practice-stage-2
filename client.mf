@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: client
+Export-Package: client;version="1.1"
+Bundle-Name: Greeting Client
+Bundle-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Activator: client.ClientActivator
+Import-Package: org.osgi.framework,service
+Created-By: 1.8.0_232 (Oracle Corporation)
+
