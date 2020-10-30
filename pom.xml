@@ -19,6 +19,7 @@
         </dependency>
     </dependencies>
 
+
     <build>
         <plugins>
             <plugin>
@@ -43,9 +44,6 @@
                         <Bundle-Version>
                             ${project.version}
                         </Bundle-Version>
-                        <Bundle-Activator>
-                            osgi.service.printer.PrinterActivator
-                        </Bundle-Activator>
                         <Import-Package>
                             org.osgi.framework;version="1.6.0"
                         </Import-Package>
